@@ -5,6 +5,10 @@ The purpose of this IoT project is to make the lighting of public lamps intellig
 * Détecteur de lumière Grove light sensor.
 * LED.
 * Raspberry pi 4.
+
+![jk](https://user-images.githubusercontent.com/93519108/221592553-f458d207-8b82-4fb2-b3ef-e148d9a5b4d7.PNG)
+
+
 ##### Software:
 * ThingSpeak server.
 * Thonny, Python IDE.
